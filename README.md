@@ -1,4 +1,4 @@
-# 📌 [Projeto RocketSeat]
+# 📌 Projeto RocketSeat
 
 ## 📝 Descrição
 
